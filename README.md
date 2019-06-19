@@ -1,1 +1,1 @@
-# Machine-Learning-Predictive-Modeling-for-Stock-Price-Prediction
+# Machine Learning: Predictive Modeling for Stock Price Prediction
